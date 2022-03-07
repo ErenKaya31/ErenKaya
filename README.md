@@ -1,2 +1,2 @@
 # ErenKaya
-amogus
+Hello, My Name Is Eren End I Love Coding LOL
