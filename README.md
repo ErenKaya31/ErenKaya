@@ -9,3 +9,5 @@ Hi! Im Eren So Yeah Im A Bot Developer + Some Code + Game Coder
 - LUAJIT
 - Python
 - C#
+
+# The Only Developer In Dave And Bambi: Pain Edition
