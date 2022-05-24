@@ -10,7 +10,7 @@ Hi! Im Eren So Yeah Im A Bot Developer + Some Code + Game Coder
 - Python
 - C#
 
-The Stats
+# The Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ErenKaya31)
 
