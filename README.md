@@ -1,6 +1,6 @@
 # ErenKaya31
 <img src="https://komarev.com/ghpvc/?username=erenkaya31&label=Profile%20views&color=0e75b6&style=flat" alt="erenkaya31" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaya31&theme=aura&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenKaya31&theme=aura&langs_count=10)(https://github.com/anuraghazra/github-readme-stats)
 
 Hi! Im Eren So Yeah Im A Bot Developer + Some Code + Game Coder
 
