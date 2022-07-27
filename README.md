@@ -1,7 +1,7 @@
 # ErenKaya31
 <img src="https://komarev.com/ghpvc/?username=erenkaya31&label=Profile%20views&color=0e75b6&style=flat" alt="erenkaya31" />
 
-<p align="center">
+<p align="left">
 <a href="https://discord.gg/gCFSSjhnYc"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
 </p>
 
