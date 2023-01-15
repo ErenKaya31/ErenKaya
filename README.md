@@ -13,6 +13,7 @@ Hi! Im Eren So Yeah Im A Bot Developer + Some Code + Game Coder
 - LUAJIT
 - Python
 - C#
+- Haxe
 
 # The Stats
 
